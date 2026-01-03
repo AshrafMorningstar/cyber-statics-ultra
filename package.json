@@ -23,5 +23,13 @@
     "typescript": "^5.0.0",
     "eslint": "^8.0.0",
     "prettier": "^2.0.0"
-  }
+  },
+  "keywords": [
+    "automation",
+    "developer-tools",
+    "productivity",
+    "open-source",
+    "viral"
+  ],
+  "author": "Ashraf Morningstar"
 }
