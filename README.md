@@ -1,59 +1,83 @@
-# Cyber Statics — Ultra (Cinematic Neon Edition)
 
-Ultra edition: a cinematic, generative, neon-holographic Remotion project that produces polished GitHub statistics videos with advanced visuals, layered parallax, and multiple templates.
+<div align="center">
 
-## Highlights
-- Cinematic layouts with layered parallax and depth-of-field effects.
-- Shader-like neon glows (CSS + SVG + subtle blur filters).
-- Multiple templates and scenes (Hero, Timeline, Repo Spotlight, Language Ring).
-- Multi-resolution output (1080p and 720p).
-- Robust GitHub data aggregation and optional per-repo commit history retrieval.
-- Fallback fixtures for offline development.
+# :star: Cyber Statics Ultra :star:
 
-## Quick start
-1. `npm ci`
-2. `npm run start` (preview)
-3. `npm run render:1080` or `npm run render:720` (render)
+[![GitHub stars](https://img.shields.io/github/stars/AshrafMorningstar/cyber-statics-ultra?style=for-the-badge&color=orange)](https://github.com/AshrafMorningstar/cyber-statics-ultra/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AshrafMorningstar/cyber-statics-ultra?style=for-the-badge&color=blue)](https://github.com/AshrafMorningstar/cyber-statics-ultra/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/AshrafMorningstar/cyber-statics-ultra?style=for-the-badge&color=red)](https://github.com/AshrafMorningstar/cyber-statics-ultra/issues)
+[![GitHub license](https://img.shields.io/github/license/AshrafMorningstar/cyber-statics-ultra?style=for-the-badge&color=green)](./LICENSE)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
 
-## Notes
-- This edition is heavier computationally — use GitHub Actions or a powerful local machine for final renders.
-- For frequent cloud renders add a `PERSONAL_TOKEN` to repo secrets.
-/cyber-statics-ultra/LICENSE
-MIT License
+**Automated, High-Performance cyber statics ultra Project**
 
-Copyright (c) 2025 AshrafMorningstar
+[View Demo (If Applicable)](#) • [Report Bug](https://github.com/AshrafMorningstar/cyber-statics-ultra/issues) • [Request Feature](https://github.com/AshrafMorningstar/cyber-statics-ultra/issues)
 
-Permission is hereby granted...
-/cyber-statics-ultra/.gitignore
-node_modules/
-out/
-.env
-.DS_Store
-.vscode/
-.cache/
-.tmp/
+</div>
 
 ---
 
-## 📜 Copyright & License
+## :rocket: Overview
 
-© 2026 Ashraf Morningstar. All Rights Reserved.
+**cyber-statics-ultra** is a state-of-the-art implementation utilizing Node.js, React, TypeScript. Designed for developers looking for robust, scalable solutions in Open Source, Developer Tools, Coding Best Practices, Software Engineering, React.js, Hooks, Components, Virtual DOM, SPA, Frontend Architecture, Open Source, Developer Tools, Coding Best Practices, Software Engineering.
 
-**Educational Disclaimer:** This is a personal recreation of an existing project concept, developed for learning and skill development purposes. The original project concept remains the intellectual property of its respective creator(s).
+This project is a high-performance, open-source solution designed for developers and enthusiasts. It implements modern best practices and is optimized for efficiency and scalability.
 
-**License:** MIT License - See [LICENSE](./LICENSE) file for details.
+## :sparkles: Key Features
 
-**Developer:** [Ashraf Morningstar](https://github.com/AshrafMorningstar)
+- :white_check_mark: **High Performance:** Optimized for speed and low latency.
+- :white_check_mark: **Scalable Architecture:** Built to handle growth effortlessly.
+- :white_check_mark: **Modern Tech Stack:** Utilizes latest standards in Node.js, React, TypeScript.
+- :white_check_mark: **Developer Friendly:** Clean code, well-documented, and easy to extend.
 
-**Portfolio:** Explore more projects at [github.com/AshrafMorningstar](https://github.com/AshrafMorningstar)
+## :hammer_and_wrench: Technologies Used
+
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## :floppy_disk: Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/AshrafMorningstar/cyber-statics-ultra.git
+   cd cyber-statics-ultra
+   ```
+
+2. **Install dependencies:**
+    npm install
+
+3. **Run the application:**
+    npm start
+
+## :open_file_folder: Project Structure
+
+```
+cyber-statics-ultra/
+├── src/          # Source code
+├── assets/       # Images and static files
+├── README.md     # Project documentation
+└── LICENSE       # License information
+```
+
+## :handshake: Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
+
+## :bust_in_silhouette: Author
+
+**Ashraf Morningstar**
+
+- **GitHub:** [@AshrafMorningstar](https://github.com/AshrafMorningstar)
+- **Twitter:** [@AMS_Morningstar](https://twitter.com/@AMS_Morningstar)
+- **Portfolio:** [AshrafMorningstar Projects](https://github.com/AshrafMorningstar?tab=repositories)
+
+## :page_facing_up: License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-### 🤝 Connect & Contribute
-
-Found this helpful? Give it a ⭐️ on GitHub!
-
-- 💼 Company: MORNINGSTARCONSTRUCTION
-- 📍 Location: India
-- 🐦 Twitter: [@AMS_Morningstar](https://twitter.com/AMS_Morningstar)
-- 📧 Email: ashrafmorningstar@gmail.com
+<div align="center">
+  <p>If you find this project useful, please give it a <b>Star</b> :star:!</p>
+  <sub>Built with ❤️ by Ashraf Morningstar</sub>
+</div>
